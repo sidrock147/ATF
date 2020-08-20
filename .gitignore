@@ -1,0 +1,16 @@
+TestResults/*
+bin
+obj
+*.user
+*.suo
+reports
+_NCrunch_*
+_ReSharper*
+/packages
+*.tokens
+*.bak
+TestResults/*
+*.back.aip
+log/
+.vs/*
+.idea/

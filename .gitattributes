@@ -1,0 +1,3 @@
+*.cs		-text diff=csharp
+*.resx		-text merge=union
+*.csproj        -text merge=union
